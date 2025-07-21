@@ -17,8 +17,8 @@ const CardImg = () => (
         style={imgStyle}
       />
       <Flex vertical align="flex-end" justify="space-between" style={{ padding: 32 }}>
-        <Typography.Title level={3}>
-          “antd is an enterprise-class UI design language and React UI library.”
+        <Typography.Title level={4}>
+          “Radical sports photography is a high-impact visual field and adrenaline-fueled creative industry.”
         </Typography.Title>
         <Button  href="https://ant.design" target="_blank">
           Get Started
